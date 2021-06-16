@@ -1,0 +1,52 @@
+.brown{
+    background-color: rosybrown;
+    height: 65px;
+    padding: 20px;
+    text-align: center;
+}
+
+.fflex{
+    background-color:white;
+    margin: 0 auto;
+}
+
+.right{
+    margin-left: 1000px;
+    background-color: #a7c9fb;
+    color: #f8f9fa;
+}
+
+.width{
+    width: 500px;
+    height: auto;
+}
+
+.squire{
+    width: 100px;
+    height: 100px;
+    background-color: azure;
+}
+
+.yellows{
+    width:900px;
+    height: auto;
+    background-color: burlywood;
+}
+
+button:hover{
+    color: cornsilk;
+    background-color: yellow;
+}
+
+.ccenter{
+    margin: 0 auto;
+}
+
+.center{
+    text-align: center;
+    background-color: rgb(243, 239, 232);
+}
+
+Link {
+    color: wheat;
+}
